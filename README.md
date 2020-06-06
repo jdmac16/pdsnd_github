@@ -1,17 +1,7 @@
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-###Adding some more edits here.
+6/6/6020:
+git commit "streamlined the comments in the R code"
+6/6/2020:
+git commit "removed a line of code to make the code easier to read"
+6/6/2020:
+git committ "added in a different visualization"
 
