@@ -1,17 +1,7 @@
-### Date created
-Include the date you created this project and README file.
-
-### Project Title
-Replace the Project Title
-
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-###Added new branch called documentation
+6/5/2020
+git commit "added an additional line of code for a barchart"
+6/5/2020
+git commit "added an addiitonal visualization in the R code
+6/5/2020
+git commit "revised the code that perform the merge of csv files
 
